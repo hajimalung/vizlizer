@@ -1,0 +1,18 @@
+/*
+ * Empty Stylesheet file.
+ */
+.mainFxmlClass {
+    -fx-background-color: #333;
+}
+.label{
+    -fx-text-fill: white;
+}
+#flxMain{
+    -fx-background-color: #666;
+}
+#flxOptions{
+    -fx-background-color: #333;
+}
+#loadingScreen{
+    -fx-background-color: #333;
+}
